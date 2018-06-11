@@ -1,5 +1,5 @@
 # grad
-This repository consists of a few select projects, etc. that I completed during my graduate studies. I attended DePaul University from January 2017-June 2018, and am hopefully getting my Master's in Predictive Analytics in June 2018.
+This repository consists of a few select projects, etc. that I completed during my graduate studies. I attended DePaul University from January 2017-June 2018, and received my Master's in Predictive Analytics with a Concentration in Computational Methods in June 2018.
 
 ## Contents
 ### Coursework
@@ -9,4 +9,6 @@ My favorite class at DePaul was definitely [Advanced Machine Learning](https://w
 * [Text classification project](https://github.com/adamisch/grad/blob/master/CSC529Final.html) that predicts subject categories for quizbowl questions (Python, [HTML preview here](http://htmlpreview.github.io/?https://github.com/adamisch/grad/blob/master/CSC529Final.html))
 
 ### Internships
-Coming soon!
+I interned with the Chicago Transit Authority in January-May 2017 as an Energy Intern, then in January-May 2018 as a Data Solutions Intern.
+
+* [CTA 2018](https://github.com/adamisch/grad/tree/master/CTA%202018) is an offline plotly app. It reads in my own pre-calculated ridership estimates for each station for every half hour over the course of a day, plots them based on the coordinates of the real CTA stations, and plots a slider so the user can see how stations are more or less busy (relative to each other) over the course of the day.
