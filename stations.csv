@@ -1,0 +1,155 @@
+,rowname,facility_name,sort_all,station_id,station,branch_id,branch,line,facility_id
+0,10,Lawrence,12.0,770,Lawrence,4,North Main,Red Line,157
+1,34,69th_Street,41.0,990,69th,9,Dan Ryan,Red Line,1277
+2,58,California_O'Hare,68.0,570,California/Milwaukee,6,O'Hare,Blue Line,63
+3,82,Harlem_Congress,101.0,980,Harlem-Forest Park,1,Forest Park,Blue Line,52
+4,106,Ashland_Lake,144.0,170,Ashland-Lake,2,Lake,Green Line,107
+5,130,Southport_Brown,178.0,360,Southport,8,Brown,Brown Line,136
+6,154,Thompson Center,209.0,380,Clark/Lake,3,Loop,Loop Elevated,5
+7,11,Wilson,13.0,540,Wilson,4,North Main,Red Line,158
+8,35,79th_Street,42.0,240,79th,9,Dan Ryan,Red Line,1276
+9,59,Western_O'Hare,69.0,670,Western/Milwaukee,6,O'Hare,Blue Line,64
+10,83,ForestPark_Congress,103.0,390,Forest Park,1,Forest Park,Blue Line,51
+11,107,Morgan_Lake,145.0,1510,Morgan-Lake,2,Lake,Green Line,108
+12,131,Wellington_Brown,179.0,1210,Wellington,8,Brown,Brown Line,135
+13,9,Argyle,11.0,1200,Argyle,4,North Main,Red Line,156
+14,33,63rd_Street,40.0,910,63rd-Dan Ryan,9,Dan Ryan,Red Line,1278
+15,57,Logan_Square,66.0,1020,Logan Square,6,O'Hare,Blue Line,79
+16,81,OakPark_Congress,99.0,180,Oak Park-Forest Park,1,Forest Park,Blue Line,53
+17,105,California_Lake,143.0,1360,California-Lake,2,Lake,Green Line,106
+18,129,Paulina_Brown,177.0,1310,Paulina,8,Brown,Brown Line,137
+19,153,203 LaSalle,209.0,380,Clark/Lake,3,Loop,Loop Elevated,6
+20,12,Sheridan,15.0,80,Sheridan,4,North Main,Red Line,159
+21,36,87th_Street,44.0,1430,87th,9,Dan Ryan,Red Line,1275
+22,60,Damen_O'Hare,72.0,590,Damen/Milwaukee,6,O'Hare,Blue Line,65
+23,84,Polk_Douglas,104.0,1030,Polk,5,Cermak,Pink Line,8
+24,108,Clinton_Lake,148.0,1160,Clinton-Lake,2,Lake,Green Line,2
+25,132,Diversey_Brown,180.0,530,Diversey,8,Brown,Brown Line,134
+26,15,Fullerton,18.0,1220,Fullerton,4,North Main,Red Line,162
+27,39,Central_Purple,47.0,1250,Central-Evanston,12,Evanston,Purple Line,123
+28,63,Grand_O'Hare,75.0,490,Grand/Milwaukee,6,O'Hare,Blue Line,68
+29,87,Western_Douglas,108.0,740,Western-Cermak,5,Cermak,Pink Line,11
+30,111,43rd_Green,153.0,1270,43rd,7,South Elevated,Green Line,112
+31,135,Chicago_Brown,183.0,710,Chicago/Franklin,8,Brown,Brown Line,131
+32,13,Addison_Red,16.0,1420,Addison-North Main,4,North Main,Red Line,160
+33,37,95th_Street,45.0,450,95th/Dan Ryan,9,Dan Ryan,Red Line,1274
+34,61,Division_O'Hare,73.0,320,Division/Milwaukee,6,O'Hare,Blue Line,66
+35,85,18th_Douglas,105.0,830,18th,5,Cermak,Pink Line,9
+36,109,35th_Tech,150.0,1120,35-Bronzeville-IIT,7,South Elevated,Green Line,95
+37,133,Armitage_Brown,181.0,660,Armitage,8,Brown,Brown Line,133
+38,14,Belmont_Red,17.0,1320,Belmont-North Main,4,North Main,Red Line,161
+39,38,Linden_Purple,46.0,1050,Linden,12,Evanston,Purple Line,122
+40,62,Chicago_O'Hare,74.0,1410,Chicago/Milwaukee,6,O'Hare,Blue Line,67
+41,86,Damen_Douglas,106.0,210,Damen-Cermak,5,Cermak,Pink Line,10
+42,110,Indiana_Green,152.0,300,Indiana,7,South Elevated,Green Line,111
+43,134,Sedgwick_Brown,182.0,800,Sedgwick,8,Brown,Brown Line,132
+44,16,North/Clybourn,19.0,650,North/Clybourn,4,North Main,Red Line,163
+45,40,Noyes_Purple,48.0,400,Noyes,12,Evanston,Purple Line,124
+46,64,DB Washington-Madison,76.0,370,Washington/Dearborn,11,Dearborn Subway,Blue Line,71
+47,88,California_Douglas,110.0,440,California-Cermak,5,Cermak,Pink Line,12
+48,112,47th_Green,154.0,1080,47th-South Elevated,7,South Elevated,Green Line,113
+49,136,MerchandiseMart,184.0,460,Merchandise Mart,8,Brown,Brown Line,130
+50,23,SS Monroe-Adams,28.0,1090,Monroe/State,10,State Subway,Red Line,171
+51,47,Oakton,54.5,1680,Oakton-Skokie,13,Skokie,Yellow Line,121
+52,71,Clinton_Congress,83.0,430,Clinton-Forest Park,1,Forest Park,Blue Line,49
+53,95,Harlem_Lake,127.0,20,Harlem-Lake,2,Lake,Green Line,96
+54,119,Cermak_Green,149.5,1690,Cermak-McCormick Place,7,South Elevated,Green Line,1764
+55,143,Halsted_Orange,191.0,1130,Halsted-Orange,14,Orange,Orange Line,88
+56,21,SS Randolph-Washington,23.0,1660,Lake/State,10,State Subway,Red Line,173
+57,45,South Boulevard,53.0,840,South Boulevard,12,Evanston,Purple Line,129
+58,69,DB Adams-Jackson,80.0,70,Jackson/Dearborn,11,Dearborn Subway,Blue Line,74
+59,93,Cicero_Douglas,119.0,420,Cicero-Cermak,5,Cermak,Pink Line,17
+60,117,Halsted_Green,165.0,940,Halsted/63rd,16,Ashland,Green Line,118
+61,141,35th_Archer,189.0,120,35th/Archer,14,Orange,Orange Line,90
+62,22,SS Madison-Monroe,28.0,1090,Monroe/State,10,State Subway,Red Line,172
+63,46,Skokie,54.0,140,Dempster-Skokie,13,Skokie,Yellow Line,120
+64,70,LaSalle_Congress,82.0,1340,LaSalle,11,Dearborn Subway,Blue Line,50
+65,94,54th_Cermak_Douglas,123.0,580,54th/Cermak,5,Cermak,Pink Line,18
+66,118,Ashland_Green,167.0,290,Ashland/63rd,16,Ashland,Green Line,119
+67,142,Ashland/Archer,190.0,1060,Ashland-Orange,14,Orange,Orange Line,89
+68,24,SS Jackson-VanBuren,29.0,560,Jackson/State,10,State Subway,Red Line,169
+69,48,O'Hare,55.0,890,O'Hare Airport,6,O'Hare,Blue Line,80
+70,72,Halsted_Congress,84.0,350,UIC-Halsted,1,Forest Park,Blue Line,61
+71,96,OakPark_Lake,129.0,1350,Oak Park-Lake,2,Lake,Green Line,97
+72,120,Kimball_Brown,168.0,1290,Kimball,8,Brown,Brown Line,146
+73,144,Washington/Wells,194.0,730,Washington/Wells,3,Loop,Loop Elevated,4
+74,19,Grand_Red,22.0,330,Grand/State,4,North Main,Red Line,166
+75,43,Dempster,51.0,690,Dempster,12,Evanston,Purple Line,128
+76,67,DB Madison-Monroe,79.0,790,Monroe/Dearborn,11,Dearborn Subway,Blue Line,72
+77,91,Pulaski_Douglas,116.0,150,Pulaski-Cermak,5,Cermak,Pink Line,15
+78,115,King_Green,159.0,1140,King Drive,15,East 63rd,Green Line,116
+79,139,Kedzie_Orange,187.0,1150,Kedzie-Midway,14,Orange,Orange Line,92
+80,17,Clark/Division,20.0,630,Clark/Division,4,North Main,Red Line,164
+81,41,Foster_Purple,49.0,520,Foster,12,Evanston,Purple Line,125
+82,65,DB Randolph-Washington,76.0,370,Washington/Dearborn,11,Dearborn Subway,Blue Line,70
+83,89,Kedzie_Douglas,112.0,1040,Kedzie-Cermak,5,Cermak,Pink Line,13
+84,113,51st_Green,155.0,130,51st,7,South Elevated,Green Line,114
+85,137,Midway,185.0,930,Midway Airport,14,Orange,Orange Line,94
+86,18,Chicago_Red,21.0,1450,Chicago/State,4,North Main,Red Line,165
+87,42,Davis_Purple,50.0,50,Davis,12,Evanston,Purple Line,126
+88,66,DB Monroe-Adams,79.0,790,Monroe/Dearborn,11,Dearborn Subway,Blue Line,73
+89,90,CentralPark_Douglas,114.0,780,Central Park,5,Cermak,Pink Line,14
+90,114,Garfield_Green,156.0,510,Garfield-South Elevated,7,South Elevated,Green Line,115
+91,138,Pulaski_Orange,186.0,960,Pulaski-Orange,14,Orange,Orange Line,93
+92,20,SS Lake-Randolph,23.0,1660,Lake/State,10,State Subway,Red Line,1
+93,44,Main_Purple,52.0,270,Main,12,Evanston,Purple Line,127
+94,68,DB Jackson-VanBuren,80.0,70,Jackson/Dearborn,11,Dearborn Subway,Blue Line,75
+95,92,Kostner_Douglas,117.0,600,Kostner,5,Cermak,Pink Line,16
+96,116,Cottage_Green,160.0,720,East 63rd-Cottage Grove,15,East 63rd,Green Line,117
+97,140,Western_Orange,188.0,310,Western-Orange,14,Orange,Orange Line,91
+98,5,Granville,7.0,760,Granville,4,North Main,Red Line,152
+99,29,Cermak/Chinatown,35.0,1000,Cermak-Chinatown,9,Dan Ryan,Red Line,1282
+100,53,Montrose_O'Hare,60.0,1330,Montrose-O'Hare,6,O'Hare,Blue Line,84
+101,77,Kedzie_Congress,94.0,250,Kedzie-Homan-Forest Park,1,Forest Park,Blue Line,56
+102,101,Cicero_Lake,134.0,480,Cicero-Lake,2,Lake,Green Line,102
+103,125,Damen_Brown,173.0,90,Damen-Brown,8,Brown,Brown Line,141
+104,149,Madison/Wabash,203.0,640,Madison/Wabash,3,Loop,Loop Elevated,175
+105,8,Berwyn,10.0,340,Berwyn,4,North Main,Red Line,155
+106,32,Garfield_Red,39.0,1170,Garfield-Dan Ryan,9,Dan Ryan,Red Line,1280
+107,56,Belmont_O'Hare,65.0,60,Belmont-O'Hare,6,O'Hare,Blue Line,78
+108,80,Austin_Congress,97.0,10,Austin-Forest Park,1,Forest Park,Blue Line,46
+109,104,Kedzie_Lake,142.0,1070,Kedzie-Lake,2,Lake,Green Line,105
+110,128,Addison_Brown,176.0,1440,Addison-Brown,8,Brown,Brown Line,138
+111,152,Lake_Wells_Blue,209.0,380,Clark/Lake,3,Loop,Loop Elevated,69
+112,7,Bryn Mawr,9.0,1380,Bryn Mawr,4,North Main,Red Line,154
+113,31,47th_Street_Red,38.0,1230,47th-Dan Ryan,9,Dan Ryan,Red Line,1279
+114,55,Addison_O'Hare,64.0,1240,Addison-O'Hare,6,O'Hare,Blue Line,77
+115,79,Cicero_Congress,96.0,970,Cicero-Forest Park,1,Forest Park,Blue Line,54
+116,103,Conservatory,137.0,1670,Conservatory,2,Lake,Green Line,104
+117,127,IrvingPark_Brown,175.0,1460,Irving Park-Brown,8,Brown,Brown Line,139
+118,151,State/Lake,207.0,260,State/Lake,3,Loop,Loop Elevated,3
+119,6,Thorndale_Red,8.0,880,Thorndale,4,North Main,Red Line,153
+120,30,Sox-35th,36.0,190,Sox-35th-Dan Ryan,9,Dan Ryan,Red Line,1281
+121,54,IrvingPark_O'Hare,61.0,550,Irving Park-O'Hare,6,O'Hare,Blue Line,85
+122,78,Pulaski_Congress,95.0,920,Pulaski-Forest Park,1,Forest Park,Blue Line,55
+123,102,Pulaski_Lake,135.0,30,Pulaski-Lake,2,Lake,Green Line,103
+124,126,Montrose_Brown,174.0,1500,Montrose-Brown,8,Brown,Brown Line,140
+125,150,Randolph/Wabash,205.0,200,Randolph/Wabash,3,Loop,Loop Elevated,174
+126,1,Howard_Red,1.0,900,Howard,4,North Main,Red Line,147
+127,25,SS Adams-Jackson,29.0,560,Jackson/State,10,State Subway,Red Line,170
+128,49,Rosemont,56.0,820,Rosemont,6,O'Hare,Blue Line,81
+129,73,Racine_Congress,87.0,470,Racine,1,Forest Park,Blue Line,60
+130,97,Ridgeland,130.0,610,Ridgeland,2,Lake,Green Line,98
+131,121,Kedzie_Brown,169.0,1180,Kedzie-Brown,8,Brown,Brown Line,145
+132,145,Quincy/Wells,198.0,40,Quincy/Wells,3,Loop,Loop Elevated,179
+133,4,Loyola,5.0,1300,Loyola,4,North Main,Red Line,151
+134,28,Roosevelt-Red,33.0,1400,Roosevelt,10,State Subway,Red Line,167
+135,52,JeffersonPark,59.0,1280,Jefferson Park,6,O'Hare,Blue Line,86
+136,76,Western_Congress,92.0,220,Western-Forest Park,1,Forest Park,Blue Line,59
+137,100,Laramie,133.0,700,Laramie,2,Lake,Green Line,101
+138,124,Western_Brown,172.0,1480,Western-Brown,8,Brown,Brown Line,142
+139,148,Adams/Wabash,202.0,680,Adams/Wabash,3,Loop,Loop Elevated,176
+140,3,Morse,3.0,100,Morse,4,North Main,Red Line,150
+141,27,Roosevelt_Orange,33.0,1400,Roosevelt,10,State Subway,Red Line,87
+142,51,Harlem_O'Hare,58.0,750,Harlem-O'Hare,6,O'Hare,Blue Line,83
+143,75,Medical Center_Congress,89.0,810,Medical Center,1,Forest Park,Blue Line,58
+144,99,Central_Lake,132.0,280,Central-Lake,2,Lake,Green Line,100
+145,123,Rockwell_Brown,171.0,1010,Rockwell,8,Brown,Brown Line,143
+146,147,VanBuren/State,201.0,850,Library,3,Loop,Loop Elevated,177
+147,2,Jarvis_Red,2.0,1190,Jarvis,4,North Main,Red Line,148
+148,26,Harrison-Red,32.0,1490,Harrison,10,State Subway,Red Line,168
+149,50,Cumberland_O'Hare,57.0,230,Cumberland,6,O'Hare,Blue Line,47
+150,74,Damen_Congress,89.0,810,Medical Center,1,Forest Park,Blue Line,57
+151,98,Austin_Lake,131.0,1260,Austin-Lake,2,Lake,Green Line,99
+152,122,Francisco_Brown,170.0,870,Francisco,8,Brown,Brown Line,144
+153,146,LaSalle_VanBuren,200.0,160,LaSalle/Van Buren,3,Loop,Loop Elevated,178
