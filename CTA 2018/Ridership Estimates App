@@ -52,7 +52,7 @@ scl = [
 # Reading in list of stations, removing duplicates
 # List of stations was taken from Chicago Data Portal
 def main():
-    station_df=pandas.read_csv('https://raw.githubusercontent.com/adamisch/grad/master/List%20of%20L%20Stops.csv')
+    station_df=pandas.read_csv('https://raw.githubusercontent.com/adamisch/grad/master/CTA%202018/List%20of%20L%20Stops.csv')
     station_df['Lat'] = station_df['Location'].apply(lambda x: x.split(', ')[0][1:])
     station_df['Lon'] = station_df['Location'].apply(lambda x: x.split(', ')[1][:-1])
     station_df.drop_duplicates('STATION_DESCRIPTIVE_NAME', inplace=True)
@@ -65,10 +65,10 @@ def main():
 maindf = main()
 
 # Queried from ridership estimates
-rows=pandas.read_csv('https://raw.githubusercontent.com/adamisch/grad/master/rows.csv')
+rows=pandas.read_csv('https://raw.githubusercontent.com/adamisch/grad/master/CTA%202018/rows.csv')
 
 # Station names to match
-stations=pandas.read_csv('https://raw.githubusercontent.com/adamisch/grad/master/stations.csv')
+stations=pandas.read_csv('https://raw.githubusercontent.com/adamisch/grad/master/CTA%202018/stations.csv')
 
 # Mapping ridership estimates to list of stations for IDs
 rows['station_id'] = rows['facility_name'].map(stations.set_index('facility_name')['station_id'])+40000
