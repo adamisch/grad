@@ -86,9 +86,9 @@ def plotsize(step):
     test = rows[rows["datetime"] == step]
     minsize = min(test["sum"])
     maxsize = max(test["sum"])
-# normalize to (5, 25) range for plotting
-# Nothing special about (5, 25), it could certainly be tweaked
-    sizes = [(item-minsize) / (maxsize-minsize) * (35 - 10) + 5 for item in test.iloc[:, 6]]
+# normalize to (5, 30) range for plotting
+# Nothing special about (5, 30), it could certainly be tweaked
+    sizes = [(item-minsize) / (maxsize-minsize) * (30 - 5) + 5 for item in test.iloc[:, 6]]
     return(sizes)
 
 
