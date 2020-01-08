@@ -1,5 +1,9 @@
 # grad
+I'm Alex Damisch. I currently work for Underwriters Laboratories on the iON Compliance Team.
+
+
 This repository consists of a few select projects, etc. that I completed during my graduate studies. I attended DePaul University from January 2017-June 2018, and received my Master's in Predictive Analytics with a Concentration in Computational Methods in June 2018.
+
 
 ## Contents
 ### Coursework
